@@ -1,6 +1,6 @@
 package exercicio6;
 
-public class Eletrodoméstico implements Produto {
+public class Eletrodomestico implements Produto {
     private static int idEletrodomesticos = 1;
     private int anoProdução;
     private int unidadeVenda;
@@ -8,7 +8,7 @@ public class Eletrodoméstico implements Produto {
     private float preco;
     private int idLocal;
 
-    public Eletrodoméstico(int anoProdução, int unidadeVenda, String categoria, float preco) {
+    public Eletrodomestico(int anoProdução, int unidadeVenda, String categoria, float preco) {
         this.anoProdução = anoProdução;
         this.unidadeVenda = unidadeVenda;
         this.categoria = categoria;
@@ -44,7 +44,7 @@ public class Eletrodoméstico implements Produto {
 
     @Override
     public String mostra() {
-        return "Eletrodoméstico: ID=" + getID() + ", Ano de Produção=" + getAnoProdução() +
+        return "Eletrodomestico: ID=" + getID() + ", Ano de Produção=" + getAnoProdução() +
                 ", Unidade de Venda=" + getUnidadeVenda() + ", Categoria=" + getCategoria() +
                 ", Preço=" + getPreço();
     }
