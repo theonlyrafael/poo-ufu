@@ -1,8 +1,8 @@
 package exercicio6;
 
-public class PrincipalVeículos {
+public class PrincipalVeiculos {
     public static void main(String[] args) {
-        Veículo[] veiculos = new Veículo[5];
+        Veiculo[] veiculos = new Veiculo[5];
         veiculos[0] = new Carro("Ford", "Focus", "Vermelho", 150.0);
         veiculos[1] = new Carro("Toyota", "Corolla", "Azul", 180.0);
         veiculos[2] = new Moto("Honda", "CBR", "Vermelho", 100.0);
@@ -14,7 +14,7 @@ public class PrincipalVeículos {
         String marcaMaisPotente = "";
         String marcaMenosPotente = "";
 
-        for (Veículo veiculo : veiculos) {
+        for (Veiculo veiculo : veiculos) {
             if (veiculo.cor().equalsIgnoreCase("Vermelho")) {
                 veiculo.mostraDados();
                 if (veiculo.potencia() > potenciaMaxima) {
