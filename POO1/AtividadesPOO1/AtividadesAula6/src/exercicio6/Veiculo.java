@@ -1,6 +1,6 @@
 package exercicio6;
 
-public interface Veículo {
+public interface Veiculo {
     String marca();
 
     String modelo();
