@@ -1,10 +1,10 @@
 package exercicio6;
 
-public abstract class Funcionário {
+public abstract class Funcionario {
     private String nome, matricula;
     private double salario_base;
 
-    public Funcionário(String n, String m, double sbase) {
+    public Funcionario(String n, String m, double sbase) {
         this.nome = n;
         this.matricula = m;
         this.salario_base = sbase;
