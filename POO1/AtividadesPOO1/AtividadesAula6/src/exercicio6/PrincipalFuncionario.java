@@ -43,9 +43,9 @@ package exercicio6;
 
 import java.util.ArrayList;
 
-public class PrincipalFuncionário {
+public class PrincipalFuncionario {
     public static void main(String[] args) {
-        ArrayList<Funcionário> funcionarios = new ArrayList<>();
+        ArrayList<Funcionario> funcionarios = new ArrayList<>();
 
         funcionarios.add(new Assistente("João", "A001", 3000.0));
         funcionarios.add(new Assistente("Maria", "A002", 2800.0));
@@ -61,7 +61,7 @@ public class PrincipalFuncionário {
         int countGerente = 0;
         int countVendedor = 0;
 
-        for (Funcionário funcionario : funcionarios) {
+        for (Funcionario funcionario : funcionarios) {
             double salario = funcionario.calculaSalario();
             folhaSalarialTotal += salario;
 
