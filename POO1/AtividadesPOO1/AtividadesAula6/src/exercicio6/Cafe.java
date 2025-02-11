@@ -1,13 +1,13 @@
 package exercicio6;
 
-public class Café implements Produto {
+public class Cafe implements Produto {
     private static int idCafes = 1;
     private int anoProdução;
     private String categoria;
     private float preco;
     private int idLocal;
 
-    public Café(int anoProdução, String categoria, float preco) {
+    public Cafe(int anoProdução, String categoria, float preco) {
         this.anoProdução = anoProdução;
         this.categoria = categoria;
         this.preco = preco;
