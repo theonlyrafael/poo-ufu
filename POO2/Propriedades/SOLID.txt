@@ -1,0 +1,19 @@
+SOLID
++ S = Princípio da responsabilidade única:
+  - a classe ou função deve fazer apenas uma coisa, a entidade deve ser especialista no que faz
+  - vantagens: reaproveitamento dos codigos, refatorar, menos bugs e se tiver é mais facil achar para correção, teste automatizados mais faceis.
+
++ O = Princípio aberto/fechado
+  - as classes devem estar abertas para extensão, mas fechadas para modificação, ou seja, devemos poder adicionar novas funcionalidades sem tocar no código existente para a classe.
+  - Vantagem: menos cahnce de adicionar bugs ao codigo
+
++ L - Principio de Liskov
+  - Uma classe filho deve ser capaz de realizar tudo que a classe pai é capaz, se for necessario, ou seja o principio diz para respeitar as abstraçoes em um nivel certo
+  - força pensar oq de comum as sub-classes iram usar
+
++ I - Segregação de Infaces
+  - uma classe nn deve ser obrigada a implementar uma interface e metodos que nn sera util para ela, ou seja criar interfaces especificas para cada classse
+
++ D - Princípio da Inversão de Dependência
+  - Este princípio afirma que as classes de alto nível não devem depender de classes de baixo nível; ambas devem depender de abstrações. Além disso, abstrações não devem depender de detalhes, mas sim detalhes devem depender de abstrações. Isso promove a modularidade, reutilização e facilita a substituição de componentes.
+
