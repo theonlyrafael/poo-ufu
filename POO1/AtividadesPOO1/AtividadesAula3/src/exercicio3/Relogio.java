@@ -2,7 +2,7 @@ package exercicio3;
 
 import java.util.Scanner;
 
-public class Relógio {
+public class Relogio {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int op;

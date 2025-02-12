@@ -1,11 +1,11 @@
 package exercicio3;
 
-public class máquinadepassagens {
+public class maquinadepassagens {
     private int preço;
     private int quantInserida;
     public int total;
 
-    public máquinadepassagens(int p) {
+    public maquinadepassagens(int p) {
         preço = p;
         quantInserida = 0;
         total = 0;
