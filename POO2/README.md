@@ -4,7 +4,8 @@
 
 ![Java](https://img.shields.io/badge/Linguagem-Java-ED8B00?style=flat) ![Maven](https://img.shields.io/badge/Build-Maven-C71A36?style=flat) ![JUnit](https://img.shields.io/badge/Testes-JUnit-25A162?style=flat) ![Status](https://img.shields.io/badge/Status-Concluído-success?style=flat)
 
-> [!NOTE] > As práticas não seguem uma numeração contínua porque o professor disponibilizava diferentes opções de atividades avaliativas. Este repositório contém apenas as práticas que escolhi desenvolver.
+> [!NOTE] 
+> As práticas não seguem uma numeração contínua porque o professor disponibilizava diferentes opções de atividades avaliativas. Este repositório contém apenas as práticas que escolhi desenvolver.
 
 ## Estrutura da Pasta
 
