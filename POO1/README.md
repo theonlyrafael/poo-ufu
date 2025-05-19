@@ -11,6 +11,7 @@
 
 * **`AtividadesPOO1`**: reúne as atividades desenvolvidas ao longo das aulas, abordando diferentes aplicações dos conceitos de orientação a objetos. Também contém o projeto em grupo de um sistema de quiz.
 
+* **`Quiz`**: reúne o código-fonte da implementação do jogo que serviu como trabalho final da disciplina.
+
 * **`RevisãoPOO1`**: contém exercícios utilizados para revisar os principais conteúdos trabalhados durante a disciplina.
 
-* **`Quiz`**: reúne o código-fonte da implementação do jogo que serviu como trabalho final da disciplina.
