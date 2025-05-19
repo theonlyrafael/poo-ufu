@@ -13,3 +13,4 @@
 
 * **`RevisãoPOO1`**: contém exercícios utilizados para revisar os principais conteúdos trabalhados durante a disciplina.
 
+* **`Quiz`**: reúne o código-fonte da implementação do jogo que serviu como trabalho final da disciplina.
