@@ -10,3 +10,7 @@ target/
 
 # Configurações locais do VS Code
 .vscode/
+
+# Configurações do IntelliJ IDEA
+.idea/
+*.iml
