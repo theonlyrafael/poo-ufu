@@ -20,3 +20,9 @@ nbproject/private/
 
 # Cópias compactadas das atividades
 *.zip
+
+# Executáveis e arquivos temporários
+*.exe
+*.log
+*.tmp
+*.bak
