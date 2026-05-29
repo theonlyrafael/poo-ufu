@@ -1,2 +1,9 @@
 # Arquivos compilados do Java
 *.class
+
+# Diretórios de compilação
+bin/
+out/
+build/
+dist/
+target/
