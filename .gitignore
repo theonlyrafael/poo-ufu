@@ -17,3 +17,6 @@ target/
 
 # Configurações privadas do NetBeans
 nbproject/private/
+
+# Cópias compactadas das atividades
+*.zip
