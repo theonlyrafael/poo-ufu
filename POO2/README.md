@@ -4,10 +4,6 @@
 
 ![Java](https://img.shields.io/badge/Linguagem-Java-ED8B00?style=flat) ![Maven](https://img.shields.io/badge/Build-Maven-C71A36?style=flat) ![JUnit](https://img.shields.io/badge/Testes-JUnit-25A162?style=flat) ![Status](https://img.shields.io/badge/Status-Concluído-success?style=flat)
 
-## Objetivos
-
-Guardar os códigos produzidos durante a continuação dos estudos de Programação Orientada a Objetos, incluindo conceitos mais avançados de Java, estruturas de dados, generics, threads, testes automatizados e princípios de desenvolvimento orientado a objetos.
-
 ## Estrutura da Pasta
 
 * **`AtividadesPOO2`**: reúne exercícios e práticas envolvendo matrizes, listas encadeadas, generics, threads, árvores binárias, testes automatizados e outras aplicações de orientação a objetos.
