@@ -4,3 +4,9 @@
 
 ![Java](https://img.shields.io/badge/Linguagem-Java-ED8B00?style=flat) ![Maven](https://img.shields.io/badge/Build-Maven-C71A36?style=flat) ![JUnit](https://img.shields.io/badge/Testes-JUnit-25A162?style=flat) ![Status](https://img.shields.io/badge/Status-Concluído-success?style=flat)
 
+## Objetivos
+
+Guardar as atividades e os trabalhos desenvolvidos nas duas disciplinas, preservando meu histórico de aprendizado em programação orientada a objetos e a evolução dos conceitos estudados ao longo do curso.
+
+
+
