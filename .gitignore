@@ -14,3 +14,6 @@ target/
 # Configurações do IntelliJ IDEA
 .idea/
 *.iml
+
+# Configurações privadas do NetBeans
+nbproject/private/
